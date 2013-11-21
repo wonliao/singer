@@ -1,7 +1,7 @@
 singer
 ======
 
-卡拉OK錄音
+卡拉OK錄唱及音場效果
 
 
 youtube 影片
